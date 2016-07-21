@@ -46,6 +46,8 @@ var myGraph = {
     }
 }
 ```
+The above data (without the comments) will make a graph that looks like this: ![alt text](demos/example.JPG "2012 Browser Market Share Example Graph")
+
 ## Displaying Your Graph
 When you want your graph to be created and displayed in the page
 ```
