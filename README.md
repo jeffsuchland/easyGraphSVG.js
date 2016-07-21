@@ -64,7 +64,7 @@ There are a few functions created to interact with a graph created with easyGrap
 easyGraphSVG.start(); // Draws the graph
 ```
 ### easyGraphSVG.clear()
-'''
+```
 easyGraphSVG.clear(); // Removes the graph from the page you created it on. Simply deletes the elements from the container.
 ```
 
