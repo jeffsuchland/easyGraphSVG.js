@@ -59,11 +59,12 @@ When you want your graph to be created and displayed in the page
 ## Interacting With Your Graph
 
 There are a few functions created to interact with a graph created with easyGraphSVG.js
-easyGraphSVG..start()
+### easyGraphSVG.start()
 ```
-easyGraphSVG..start([true,false]); // true/false is in regards to whether you want animations for this graph or not.
+easyGraphSVG.start(); // Draws the graph
 ```
-easyGraphSVG..clear(); // Removes the graph from the page you created it on. Simply deletes the elements from the container.
+### easyGraphSVG.clear()
+easyGraphSVG.clear(); // Removes the graph from the page you created it on. Simply deletes the elements from the container.
 ```
 
 ## Graph Sizing
