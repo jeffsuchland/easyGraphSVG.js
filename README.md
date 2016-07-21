@@ -1,5 +1,5 @@
 # easyGraphSVG.js
-awesomeGraph.js is a javascript library for creating visually appealing, animated, SVG-only bar graphs from simply formatted JSON data.
+easyGraphSVG.js is a javascript library for creating visually appealing, animated, SVG-only bar graphs from simply formatted JSON data.
 
 ## Using easyGraphSVG..js
 Using this tool is very simple. All you need to do is include the .js file on the page you want the graph to appear on and pass it correctly formatted data and the element you want to contain the graph (any size works, just set the container element to the size you want the graph to be).
@@ -58,7 +58,7 @@ When you want your graph to be created and displayed in the page
 
 ## Interacting With Your Graph
 
-There are a few functions created to interact with a graph created with awesomeGraph.js
+There are a few functions created to interact with a graph created with easyGraphSVG.js
 easyGraphSVG..start()
 ```
 easyGraphSVG..start([true,false]); // true/false is in regards to whether you want animations for this graph or not.
