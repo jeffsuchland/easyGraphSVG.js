@@ -72,7 +72,7 @@ easyGraphSVG.clear(); // Removes the graph from the page you created it on. Simp
 
 Due to the incorporation of text in the graph (and keeping the legends readable) I would suggest keeping the graph's container element larger than ~250px in height and larger than 600px in width. However depending on the length of your titles and legend entries it may require more or less space.
 
-## MIT License
+## License
 
 MIT License
 
